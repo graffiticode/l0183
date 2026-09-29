@@ -1,3 +1,9 @@
+> **Archived — moved.** This repository is archived and read-only. L0183 now lives in the
+> Graffiticode monorepo at
+> [`languages/l0183`](https://github.com/graffiticode/graffiticode/tree/main/languages/l0183),
+> with this repository's history. Make changes there; the `l0183` service is released with
+> the monorepo's deploy CLI (`npm run deploy -- l0183`).
+
 # L0183
 
 [![License: MIT](https://img.shields.io/badge/Code-MIT-blue.svg)](packages/LICENSE)
